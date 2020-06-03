@@ -7,7 +7,7 @@ All the work done in this project is my work and everything was made ground up f
 
 I learnt all these things using YouTube. I didn’t had any prior knowledge of Android Studio.
 
-It was a fun project and I learnt a lot.
+It was a fun project and I learned a lot.
 
 # Things I learned
 
