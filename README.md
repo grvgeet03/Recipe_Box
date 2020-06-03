@@ -17,12 +17,15 @@ It was a fun project and I learnt a lot.
 
 ## Screenshots of App
 
-![](Screenshots/1.jpeg)
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="Screenshots/1.jpeg" width="33%"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="Screenshots/2.jpeg" width="33%">
 
-![](Screenshots/2.jpeg)
+<br/>
+<br/>
 
-![](Screenshots/4.jpeg)
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="Screenshots/4.jpeg" width="33%"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="Screenshots/5.jpeg" width="33%">
 
-![](Screenshots/5.jpeg)
+<br/>
+<br/>
 
-![](Screenshots/6.jpeg)
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="Screenshots/6.jpeg" width="33%"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="Screenshots/9.jpeg" width="33%">
+
