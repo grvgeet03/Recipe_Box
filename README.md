@@ -9,6 +9,13 @@ I learnt all these things using YouTube. I didn’t had any prior knowledge of A
 
 It was a fun project and I learned a lot.
 
+## Getting Started
+- Clone this repo and unzip the folder wherever you want.
+- Launch Android Studio choose open project.
+- Locate where you unziped this clone.
+- Select **RecipeBox-master** folder, let the gradle sync.
+- You are ready to go!
+
 # Things I learned
 
 - Developed a user interface within the xml file using RelativeLayout, ListView, SearchView, RecyclerView, ScrollView, & Button.
