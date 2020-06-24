@@ -16,21 +16,22 @@ It was a fun project and I learned a lot.
 - Select **RecipeBox-master** folder, let the gradle sync.
 - You are ready to go!
 
+## Screenshots of the App
+
+ <br/>
+ <p>
+ <img src="Screenshots/1.jpeg" width="20%">
+ <img src="Screenshots/2.jpeg" width="20%">
+ <img src="Screenshots/3.jpeg" width="20%"> 
+ <img src="Screenshots/4.jpeg" width="20%">
+ <img src="Screenshots/5.jpeg" width="20%">
+ <img src="Screenshots/6.jpeg" width="20%">
+ <img src="Screenshots/7.jpeg" width="20%">
+ <img src="Screenshots/9.jpeg" width="20%">
+ </p>
+
 # Things I learned
 
 - Developed a user interface within the xml file using RelativeLayout, ListView, SearchView, RecyclerView, ScrollView, & Button.
 - Implemented functinality to the UI: onCreate, onAddItem, setupListViewListener, readItems, WriteItems.
 - Used Firebase to authenticate user, created a database to store user's info & get that data form online database.
-
-
-## Screenshots of the App
-
-<p>
- <img src="Screenshots/1.jpeg" width="36%"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <img src="Screenshots/2.jpeg" width="36%">
- <img src="Screenshots/3.jpeg" width="36%"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <img src="Screenshots/4.jpeg" width="36%">
- <img src="Screenshots/5.jpeg" width="36%"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <img src="Screenshots/6.jpeg" width="36%">
- <img src="Screenshots/9.jpeg" width="36%">
-<p>
