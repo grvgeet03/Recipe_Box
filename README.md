@@ -34,3 +34,4 @@ It was a fun project and I learned a lot.
 - Implemented functinality to the UI: onCreate, onAddItem, setupListViewListener, readItems, WriteItems.
 - Used Firebase to authenticate user, created a database to store user's info & get that data form online database.
 "# Recipe_Box" 
+"# Recipe_Box" 
